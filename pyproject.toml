@@ -1,8 +1,11 @@
 [tool.poetry]
-name = "cga4233de"
-version = "0.1.0"
+authors = ["no92 <no92.mail@gmail.com>", "German Lashevich <german.lashevich@gmail.com>"]
 description = "Library to interact with the CGA4233DE router, distributed by Vodafone Germany"
-authors = ["Your Name <you@example.com>"]
+documentation = "https://github.com/zebradil/cga4233de/README.md"
+name = "cga4233de"
+readme = "README.md"
+repository = "https://github.com/zebradil/cga4233de"
+version = "0.1.0"
 
 [tool.poetry.dependencies]
 python = "^3.10"
