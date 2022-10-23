@@ -1,5 +1,8 @@
 # CGA4233DE
 
+**NOTE**: I switched to another provider and won't maintain this project anymore.
+However, I'll accept RPs or can transfer this repository to someone else.
+
 This is a python library to interact with the CGA4233DE router, as provided by Vodafone Germany.
 
 ## References
